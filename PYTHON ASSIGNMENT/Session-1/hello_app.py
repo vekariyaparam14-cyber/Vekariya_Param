@@ -1,1 +1,5 @@
+# 4.Create a Python script file called hello_app.py (not a notebook) that 
+# prints 'Hello from .py file!' when run from the terminal.<br><br><em><strong>
+# Hint:</strong> Use a text editor like VS Code or Notepad to create the file, then run it using the command: python hello_app.py</em>
+
 print("Hello World!")
