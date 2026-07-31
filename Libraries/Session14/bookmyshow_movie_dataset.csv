@@ -1,0 +1,31 @@
+movie_id,movie_name,genre,language,box_office_collection
+1,Sky Warriors,Action,Hindi,250
+2,Love in Mumbai,Romance,Hindi,180
+3,The Last Kingdom,Drama,English,320
+4,Comedy Nights,Comedy,Hindi,95
+5,Haunted House,Horror,Hindi,75
+6,Mission Code,Action,English,410
+7,Family Forever,Family,Hindi,210
+8,The Silent Forest,Drama,English,160
+9,City Lights,Romance,Hindi,145
+10,Battle Ground,Action,English,380
+11,Dream Chasers,Drama,Hindi,120
+12,The Detective,Thriller,English,275
+13,Ocean Mystery,Mystery,English,190
+14,Campus Life,Comedy,Hindi,85
+15,Royal Legacy,Historical,Hindi,230
+16,Midnight Horror,Horror,English,110
+17,The Time Traveler,Sci-Fi,English,350
+18,Heartbeats,Romance,Hindi,200
+19,Action Force,Action,Hindi,450
+20,Laugh Out Loud,Comedy,Hindi,105
+21,Hidden Truth,Thriller,English,290
+22,Desert Storm,Adventure,Hindi,365
+23,A Journey Home,Family,Hindi,175
+24,Cyber World,Sci-Fi,English,310
+25,The Magic Door,Fantasy,Hindi,220
+26,Crime Files,Crime,English,240
+27,Mountain Adventure,Adventure,English,280
+28,Love Again,Romance,Hindi,155
+29,Super Squad,Action,Hindi,500
+30,The Final Case,Crime,English,330

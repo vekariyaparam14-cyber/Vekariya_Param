@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,city,cuisine,average_cost_for_two,user_rating
+1,The Spice Route,Ahmedabad,North Indian,800,4.5
+2,Urban Tadka,Vadodara,North Indian,600,4.2
+3,Pizza Palace,Surat,Italian,700,4.0
+4,Green Leaf Cafe,Ahmedabad,Cafe,500,4.3
+5,Royal Biryani House,Rajkot,Biryani,900,4.6
+6,Burger Junction,Vadodara,Fast Food,450,4.1
+7,Cafe Mocha,Surat,Cafe,550,4.4
+8,The Food Factory,Ahmedabad,Multi Cuisine,1000,4.7
+9,Sushi World,Vadodara,Japanese,1200,4.5
+10,Punjabi Rasoi,Rajkot,Punjabi,700,4.2
+11,South Indian Hub,Ahmedabad,South Indian,400,4.0
+12,Sweet Cravings,Surat,Desserts,350,4.3
+13,Chinese Wok,Vadodara,Chinese,650,4.1
+14,Grill House,Ahmedabad,Continental,1100,4.6
+15,Taste of Gujarat,Rajkot,Gujarati,500,4.4
+16,Pasta Street,Surat,Italian,800,4.2
+17,The Dessert Room,Ahmedabad,Desserts,450,4.5
+18,Maharaja Restaurant,Vadodara,Mughlai,950,4.7
+19,Healthy Bites,Rajkot,Healthy Food,600,4.0
+20,Street Food Corner,Surat,Street Food,300,3.9
